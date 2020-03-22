@@ -1,6 +1,6 @@
 # Source-To-Image (S2I)
 
-## Overview
+## Overview 
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/openshift/source-to-image)](https://goreportcard.com/report/github.com/openshift/source-to-image)
 [![GoDoc](https://godoc.org/github.com/openshift/source-to-image?status.png)](https://godoc.org/github.com/openshift/source-to-image)
